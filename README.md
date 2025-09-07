@@ -26,8 +26,6 @@ We help engineers navigate their career journey by providing all the tools neces
  
 ![image](https://github.com/ARYANK-08/aeravat/assets/120780784/d5753c68-820a-41e1-9af8-a32c65fcb92a)
   
-![image](https://github.com/ARYANK-08/aeravat/assets/120780784/f9ff0acc-d583-4318-9742-e4d860accf33)
-
 ![image](https://github.com/ARYANK-08/aeravat/assets/120780784/c1fc7948-e2a9-4b02-990a-0e549029cb25)
 
 ![image](https://github.com/ARYANK-08/aeravat/assets/120780784/db985d58-4359-4695-95a8-d5f55414e1fc)
