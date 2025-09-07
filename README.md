@@ -1,4 +1,4 @@
-# PlacementPrep.AI
+# PlacementPrepAI
 
 **Empowering Engineers: Dream, Develop, Deploy.**  
 PlacementPrep.AI is your end-to-end solution for landing your dream engineering job. We provide personalized roadmaps, skill assessments, and AI-driven mentorship to guide you every step of the way.
@@ -14,18 +14,6 @@ PlacementPrep.AI is your end-to-end solution for landing your dream engineering 
 
 ## Why PlacementPrep.AI?
 We help engineers navigate their career journey by providing all the tools necessary to prepare for specific roles, like becoming a frontend developer at AWS. Our platform ensures you have everything needed for your dream job, from skill assessments to interview preparation.
-
-## Project Links
-- [Demo](https://www.loom.com/share/cd4115f8f7384472b87279d78514500c?sid=e727d201-2683-4d77-bdd5-8228c381a05e)
-- [Project](https://devfolio.co/projects/placementprepai-5594)
-- [LinkedIn](https://linkedin.com/posts/aryankyatham_another-day-another-hackathon-win-we-activity-7177561089675517952-wiBW)
-
-## Developers
-- Aryan Kyatham
-- Sharvin Gavad
-- Myron Dabreo
-- Neston Cabral
-
 
 ## Technologies Used
 - Django
